@@ -6,7 +6,7 @@
     (property "Value" "VoidSwitch" (id 1) (at 0 2.54 0)
       (effects (font (size 0.9906 0.9906)))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "void_switch:VoidSwitch_1u_SMD" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
