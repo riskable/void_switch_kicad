@@ -4,7 +4,7 @@
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "Hall_Sensor" (id 1) (at -4.5212 -1.143 0)
-      (effects (font (size 0.9906 0.9906)) (justify right))
+      (effects (font (size 0.9906 0.9906)) (justify right) hide)
     )
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at -1.27 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
