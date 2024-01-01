@@ -1,5 +1,5 @@
 # void_switch_kicad
-Kicad files for making an analog hall effect keyboard PCB using 3D printed Void Switches.
+Kicad files for making an analog hall effect keyboard PCB using 3D printed [Void Switches](https://github.com/riskable/void_switch).
 
 **NOTE:** These files were made for use with Kicad 6.
 
